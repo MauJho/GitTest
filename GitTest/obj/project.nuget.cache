@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "koOupMCoz5I88uN5Fmj8mDzpMUd9f+2FXkI6v7YU7h+VVvGP+2VDnMaZ/rJmO/aEeLfuCSfA9h4u+vDPSTPVLg==",
+  "dgSpecHash": "TgG3Nlxy/7aXhSpIWRDfAgN1egkTLzp78OBmvOBA5nXtXskIk3fqxR3SjL0NYw0znumm+UMB/Q6Wj9xlVn2geQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A8Q2HZZ\\OneDrive - 3M\\Desktop\\GitTest\\GitTest\\GitTest.csproj",
+  "projectFilePath": "C:\\Users\\A8Q2HZZ\\Source\\Repos\\GitTest\\GitTest\\GitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A8Q2HZZ\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\A8Q2HZZ\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
